@@ -14,9 +14,8 @@
 | :------------: | :------------------------------------------------------- |
 
 **Collections:**
-|   主&emsp;页   | <https://www.4ce.cn>                                      |
+| **股票操作记录** | **<https://flveboy.github.io/stock/newIndex.html>**                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://loongnote.netlify.app>**                            |
 |**Web&emsp;API**| **<https://api.vvhan.com>**          |
 | **Cloudflare优选** | **<https://cf.vvhan.com>** |
 
