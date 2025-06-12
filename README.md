@@ -19,6 +19,7 @@
 |**Web&emsp;API**| **<https://api.vvhan.com>**          |
 | **Cloudflare优选** | **<https://cf.vvhan.com>** |
 | **播&emsp;放&emsp;器** | **<https://netease-music.fe-mm.com>** |
+| **图&emsp;&emsp;床** | **<https://uploadpics.pages.dev>** |
 
 **Languages:**
 
