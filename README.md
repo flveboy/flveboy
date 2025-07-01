@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/flveboy/flveboy/main/man.jpg" width="260" align="right" alt="Code Boy">
 
 
-| **博&emsp;客** | **<https://loongnote.netlify.app>**                            |
+| **博&emsp;客** | **<https://loongblog.netlify.app>**                            |
 | :------------: | :------------------------------------------------------- |
 
 **Collections:**
