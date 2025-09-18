@@ -20,7 +20,8 @@
 | **Cloudflare优选** | **<https://cf.vvhan.com>** |
 | **播&emsp;放&emsp;器** | **<https://netease-music.fe-mm.com>** |
 | **图&emsp;&emsp;床** | **<https://uploadpics.pages.dev>** |
-
+| **每周计划表** | **<https://loonglist.netlify.app>** |
+ **课程表** | **<https://loongtable.netlify.app/>** |
 **Languages:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
