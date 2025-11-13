@@ -11,7 +11,6 @@
 
 
 | **博&emsp;客** | **<https://www.loongblogs.dpdns.org>**                            |
-| ** ** | **<https://loongblog.netlify.app>**                            |
 | :------------: | :------------------------------------------------------- |
 
 **Collections:**
